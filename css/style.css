@@ -22,32 +22,33 @@ body {
 .value-middle-figure {
   /* border: 2px solid blue; */
   text-align: center;
-  font-size: 50px;
+  font-size: 45px;
   color: #cc3a3d;
 }
 
 .value-number-9 {
-  margin: 8;
-  margin-top: -40px;
+  margin: 7;
+  margin-top: -60px;
   /* border: 2px solid black; */
 }
 
 .value-figure-left {
   color: #cc3a3d;
-  font-size: 30px;
+  font-size: 28px;
   /* border: 2px solid red; */
 }
 
 .value-number-6 {
-  margin: 8;
+  margin: 7;
   /* border: 2px solid black; */
   text-align: end;
-  margin-bottom: -40px;
+  margin-bottom: -60px;
 }
 
 .value-figure-right {
   color: #cc3a3d;
-  font-size: 30px;
+  font-size: 28px;
   /* border: 2px solid red; */
   text-align: end;
+  transform: scale(1, -1);
 }
